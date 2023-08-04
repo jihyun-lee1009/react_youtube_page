@@ -24,6 +24,7 @@
 
 .button {
     background-color: darkgray;
+    outline: 0;
 }
 
 .buttonImg {
